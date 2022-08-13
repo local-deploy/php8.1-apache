@@ -1,4 +1,4 @@
-# php8.0-apache
+# php8.1-apache
 
 ```bash
 docker pull quay.io/local-deploy/php8.1-apache
